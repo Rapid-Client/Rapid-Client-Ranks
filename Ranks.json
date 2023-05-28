@@ -1,5 +1,9 @@
 {
   "Ranks": {
+    "Rapid Tester": "§3",
+    "Rapid Developer": "§4"
+  },
+  "Users": {
     "Kellohylly": "Rapid Tester",
     "Geuxy": "Rapid Developer",
     "TabioXt": "Rapid Developer",
